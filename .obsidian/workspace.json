@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "3c57a1e58974248a",
+    "type": "split",
+    "children": [
+      {
+        "id": "07b81919f6ff9c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "911680d874675aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intelli/Kiến thức/Mindmap Intelli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2670c9b0fff0f7da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81f727877dd8dff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "199c40e5de52e3a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb1630cf4968d1e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c351ba73c593a968",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Javascript",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91cb9eceae850e07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2f3c50dbf88a24a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9212cc64a87b842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da537d513e16404",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intelli/Kiến thức/Mindmap Intelli.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f879febebbcf55a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Intelli/Kiến thức/Mindmap Intelli.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f56c07528f0314cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a04e65fdd3bf9ed5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Intelli/Kiến thức/Mindmap Intelli.md"
+              }
+            }
+          },
+          {
+            "id": "280a2f3dbf3c1745",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "280a2f3dbf3c1745",
+  "lastOpenFiles": [
+    "Intelli/Kiến thức/Javascript/Shallow Copy và Deep Copy.md",
+    "Intelli/Kiến thức/Javascript/Array Function trong ES6.md",
+    "Intelli/Kiến thức/Javascript/Array function.md",
+    "Intelli/Kiến thức/Highchart/Line Chart basic.md",
+    "Demo Kanban.md",
+    "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
+    "Intelli/Kiến thức/Highchart/Highchart Core.md",
+    "Intelli/Kiến thức/Highchart/Area Chart basic.md",
+    "Intelli/Kiến thức/Mindmap Intelli.md",
+    "Intelli/Kiến thức/Toastify/Toast Container.md",
+    "Intelli/Kiến thức/Material React Table/Material React Table Basic Example.md",
+    "JavaScript Array length.md",
+    "Intelli/Kiến thức/Javascript/Array length.md",
+    "Intelli/Kiến thức/Javascript",
+    "Intelli/StoreImg/Pasted image 20241015111331.png",
+    "Intelli/StoreImg/Pasted image 20241014165213.png",
+    "Intelli/StoreImg/Pasted image 20241014141616.png",
+    "Intelli/StoreImg/Pasted image 20241015114222.png",
+    "Intelli/StoreImg/Pasted image 20241015113932.png",
+    "Intelli/Kiến thức/Highchart",
+    "Intelli/Task/Sidebar trong arcgis exb.md",
+    "Intelli/Task/Nghiên cứu cấu trúc header exb.md",
+    "Intelli/Reviews/Reviews 9.10.2024.md",
+    "Intelli/Kiến thức/Material UI/Sticky sidebar.md",
+    "Intelli/Kiến thức/Material React Table/Advance Material React Table Example.md",
+    "Intelli/Kiến thức/Material React Table/Material React Table Custom Headless.md",
+    "Intelli/Kiến thức/Material React Table/Minimal Material React Table Example.md",
+    "Intelli/Kiến thức/React/So sánh memo, useMemo và useCallback.md",
+    "React Memo.md",
+    "Intelli/Kiến thức/React/Hooks/Usememo.md",
+    "Intelli/Kiến thức/Lodash/Lodash - Debounce.md",
+    "Intelli/Kiến thức/Material React Table",
+    "Intelli/Kiến thức/React/Apis/memo.md",
+    "Intelli/Kiến thức/React/Hooks/UseState.md",
+    "Intelli/Kiến thức/Lodash",
+    "Intelli/Kiến thức/Toastify",
+    "Intelli/StoreImg",
+    "Intelli/Mindmap.canvas",
+    "University/Đồ án phần mềm/Đồ án phần mềm.canvas",
+    "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012135443.png",
+    "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012144937.png",
+    "Self/Chứng khoán/Cổ phiếu/IMG",
+    "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012143144.png",
+    "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012142805.png",
+    "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012141351.png",
+    "Self/Chứng khoán/Cổ phiếu/Việt Nam/Giá trị/Định giá.loom",
+    "Self/Finance/Untitled.loom",
+    "Self/Chứng khoán/Cổ phiếu/Việt Nam/Trade",
+    "Chưa đặt tên.canvas",
+    "Intelli/Task/Chưa đặt tên.canvas",
+    "Intelli.canvas",
+    "Sidebar Arcgis EXB.canvas",
+    "Sidebar.canvas",
+    "Chưa đặt tên 1.canvas"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:MindMap Intelli",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 1.0917236328125,
+  "lineSizeMultiplier": 1.03948567708333,
+  "collapse-forces": false,
+  "centerStrength": 0.480061848958333,
+  "repelStrength": 17.587890625,
+  "linkStrength": 1,
+  "linkDistance": 159,
+  "scale": 0.20194181336582653,
+  "close": false
+}
