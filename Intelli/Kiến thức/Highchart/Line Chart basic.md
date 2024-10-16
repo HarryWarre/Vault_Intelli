@@ -43,3 +43,4 @@ plotOptions: {
         
     - **`pointStart: 2010`**:
         - Điều này có nghĩa là dữ liệu của series sẽ bắt đầu từ năm 2010. Nếu không chỉ định, mặc định `pointStart` sẽ là `0`, tức là dữ liệu sẽ bắt đầu từ chỉ số `0`. Với `pointStart: 2010`, giá trị đầu tiên của trục x (ví dụ trong biểu đồ theo thời gian) sẽ là năm 2010, và các điểm dữ liệu tiếp theo sẽ tương ứng với các năm tiếp theo (hoặc đơn vị thời gian khác).
+    

@@ -1,7 +1,7 @@
 Tags: #lodash #debounce
 
 [Link document](https://lodash.com/docs/4.17.15#debounce)
-
+Version: 4.17.21
 # Introduce
 <p>Creates a debounced function that delays invoking `func` until after `wait` milliseconds have elapsed since the last time the debounced function was invoked.</p>
 

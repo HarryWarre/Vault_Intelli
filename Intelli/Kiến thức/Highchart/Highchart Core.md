@@ -1,5 +1,5 @@
 Tags: #chart #highchart
-Reference: 
+Version: Highchart version 11.4.8
 # Understanding Highchart
 Reference: [Understanding Highchart](https://www.highcharts.com/docs/chart-concepts/understanding-highcharts)
 

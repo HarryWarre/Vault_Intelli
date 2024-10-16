@@ -1,7 +1,7 @@
 Tags: #muiReactTable #tables #react #mui
 
 [Link example](https://www.material-react-table.com/docs/examples/basic)
-
+Version: 3.0.1
 # Cấu trúc của một  Material React Table
 
 ## Data

@@ -1,7 +1,7 @@
 Tags: #toast #toastify
 
 Link: [Link Example](https://fkhadra.github.io/react-toastify/introduction/)
-
+Version: 10.0.5
 # Introduct 
 - Là một float Toast (thông báo nổi) được sử dụng để thông báo trạng thái của một action 
 

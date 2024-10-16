@@ -4,31 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "07b81919f6ff9c18",
+        "id": "45a6c5eaef39b087",
         "type": "tabs",
+        "dimension": 29.46708463949843,
         "children": [
           {
-            "id": "911680d874675aab",
+            "id": "091455715d24a6d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intelli/Kiến thức/Mindmap Intelli.md",
+                "file": "Intelli/Kiến thức/React/Redux.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "fa583cf0c14adf3d",
+        "type": "tabs",
+        "dimension": 70.53291536050156,
+        "children": [
           {
-            "id": "2670c9b0fff0f7da",
+            "id": "92e3812e05c8d361",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "mindmap",
+              "state": {}
             }
           }
         ]
@@ -60,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Javascript",
+                "query": "tag:#DIV/0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intelli/Kiến thức/Mindmap Intelli.md",
+                "file": "Intelli/Kiến thức/React/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intelli/Kiến thức/Mindmap Intelli.md",
+                "file": "Intelli/Kiến thức/React/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intelli/Kiến thức/Mindmap Intelli.md"
+                "file": "Intelli/Kiến thức/React/Redux.md"
               }
             }
           },
@@ -146,6 +150,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "48049bcb5f14ba67",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -167,24 +179,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "280a2f3dbf3c1745",
+  "active": "091455715d24a6d4",
   "lastOpenFiles": [
-    "Intelli/Kiến thức/Javascript/Shallow Copy và Deep Copy.md",
-    "Intelli/Kiến thức/Javascript/Array Function trong ES6.md",
-    "Intelli/Kiến thức/Javascript/Array function.md",
-    "Intelli/Kiến thức/Highchart/Line Chart basic.md",
-    "Demo Kanban.md",
-    "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
-    "Intelli/Kiến thức/Highchart/Highchart Core.md",
-    "Intelli/Kiến thức/Highchart/Area Chart basic.md",
     "Intelli/Kiến thức/Mindmap Intelli.md",
+    "Intelli/Kiến thức/Highchart/Highchart Core.md",
+    "Self/Finance/12-OCT.md",
     "Intelli/Kiến thức/Toastify/Toast Container.md",
+    "Intelli/Kiến thức/Lodash/Lodash - Debounce.md",
+    "Intelli/Kiến thức/Material React Table/Minimal Material React Table Example.md",
+    "Intelli/Kiến thức/Material React Table/Material React Table Custom Headless.md",
     "Intelli/Kiến thức/Material React Table/Material React Table Basic Example.md",
+    "Intelli/Kiến thức/Material React Table/Advance Material React Table Example.md",
+    "Intelli/Kiến thức/Javascript/Array function.md",
+    "Intelli/Kiến thức/Highchart/Area Chart basic.md",
+    "Intelli/Kiến thức/React/Redux.md",
+    "Intelli/Kiến thức/React/Hooks/UseReducer.md",
+    "Intelli/Kiến thức/React/Hooks/UseState.md",
+    "Intelli/Kiến thức/React/So sánh memo, useMemo.md",
+    "Intelli/Kiến thức/React/Hooks/UseRef.md",
+    "Intelli/Kiến thức/React/Hooks/UseEffect.md",
+    "Intelli/Kiến thức/React/Hooks/Usememo.md",
+    "Intelli/Kiến thức/React/Hooks/UseCallback.md",
+    "Intelli/Kiến thức/Javascript/Array Function trong ES6.md",
+    "Intelli/Kiến thức/Javascript/Shallow Copy và Deep Copy.md",
+    "Chưa đặt tên.canvas",
+    "Intelli/Kiến thức/Highchart/Line Chart basic.md",
+    "README.md",
+    "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
+    "Demo Kanban.md",
     "JavaScript Array length.md",
-    "Intelli/Kiến thức/Javascript/Array length.md",
     "Intelli/Kiến thức/Javascript",
     "Intelli/StoreImg/Pasted image 20241015111331.png",
     "Intelli/StoreImg/Pasted image 20241014165213.png",
@@ -192,20 +219,7 @@
     "Intelli/StoreImg/Pasted image 20241015114222.png",
     "Intelli/StoreImg/Pasted image 20241015113932.png",
     "Intelli/Kiến thức/Highchart",
-    "Intelli/Task/Sidebar trong arcgis exb.md",
-    "Intelli/Task/Nghiên cứu cấu trúc header exb.md",
-    "Intelli/Reviews/Reviews 9.10.2024.md",
-    "Intelli/Kiến thức/Material UI/Sticky sidebar.md",
-    "Intelli/Kiến thức/Material React Table/Advance Material React Table Example.md",
-    "Intelli/Kiến thức/Material React Table/Material React Table Custom Headless.md",
-    "Intelli/Kiến thức/Material React Table/Minimal Material React Table Example.md",
-    "Intelli/Kiến thức/React/So sánh memo, useMemo và useCallback.md",
-    "React Memo.md",
-    "Intelli/Kiến thức/React/Hooks/Usememo.md",
-    "Intelli/Kiến thức/Lodash/Lodash - Debounce.md",
     "Intelli/Kiến thức/Material React Table",
-    "Intelli/Kiến thức/React/Apis/memo.md",
-    "Intelli/Kiến thức/React/Hooks/UseState.md",
     "Intelli/Kiến thức/Lodash",
     "Intelli/Kiến thức/Toastify",
     "Intelli/StoreImg",
@@ -220,7 +234,6 @@
     "Self/Chứng khoán/Cổ phiếu/Việt Nam/Giá trị/Định giá.loom",
     "Self/Finance/Untitled.loom",
     "Self/Chứng khoán/Cổ phiếu/Việt Nam/Trade",
-    "Chưa đặt tên.canvas",
     "Intelli/Task/Chưa đặt tên.canvas",
     "Intelli.canvas",
     "Sidebar Arcgis EXB.canvas",

@@ -9,7 +9,7 @@ Reference: [Sự khác nhau Shallow Copy và Deep Copy](https://viblo.asia/p/su-
 Với kiểu dữ liệu nguyên thủy, khi được gán giá trị sẽ được gắn chặt với biến
 =>> Không cần lo lắng về việc copy các biến này vì sẽ luôn có một bản sao (tách biệt hoàn toàn so với biến cũ)
 
-# Kiểu dữ lieuj hỗ hợp (Object và Array)
+# Kiểu dữ liệu hỗn hợp (Object và Array)
 - Về bản chất, array cũng là một object
 ```js
 let a = []

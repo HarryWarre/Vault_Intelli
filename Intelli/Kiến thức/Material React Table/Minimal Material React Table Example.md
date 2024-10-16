@@ -1,7 +1,7 @@
 Tags: #muiReactTable #tables #react #mui 
 
 Reference: [Minimal Example](https://www.material-react-table.com/docs/examples/minimal)
-
+Version: 3.0.1
 # Introduce
 - Đối với minimal table, nó thường sẽ tối giản hơn, có nghĩa là nó sẽ không cần thiết phải có các cột chức năng custom thêm mà chỉ hiển thị tối giản hết mức
 - Để làm được điều đó chúng ta sẽ thực hiện gọi các hàm enable... và set nó thành false vì mặc định nó hiện tại đang được bật lên

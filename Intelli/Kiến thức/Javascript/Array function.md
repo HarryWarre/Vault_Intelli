@@ -1,6 +1,6 @@
 Tags: #js #react 
 Reference: [JS Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
-
+Version ES6
 # Basic Array Methods
 1. [[#JavaScript Array length]]
 2. [[#JavaScript Array toString()]]

@@ -1,7 +1,7 @@
 Tags: #muiReactTable #tables #react #mui 
 
 Reference: [Custom Headless](https://www.material-react-table.com/docs/examples/custom-headless)
-
+Version: 3.0.1
 # Introduce
 - Custom headless là việc tự hiển thị bảng dữ liệu bằng cách sử dụng các thư viện khác như React hoặc Vue
 - Có thể sử dụng các hàm khác của MRRT để thao tác vơi dữ liệu và cấu hình của bảng

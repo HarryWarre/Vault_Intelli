@@ -1,7 +1,7 @@
 Tags: #muiReactTable #tables #react #mui 
 
 Reference: [Advance Table Example](https://www.material-react-table.com/docs/examples/advanced)
-
+Version: 3.0.1
 # Introduce
 - Trong phần advance material React table, ngoài các phần props mặc định được bật lên, có những phần props hoặc các phần custom có thể thêm khi sử dụng thư viện Material React Table
 

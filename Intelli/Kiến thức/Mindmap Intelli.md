@@ -15,8 +15,9 @@
 - [[UseEffect]]
 - [[UseRef]]
 - [[Usememo]]
+- [[UseCallback]]
 
-# Material UI
+# Material UI (6.0.2)
 ## Components
 ### Inputs
 - Button
@@ -52,7 +53,7 @@
 - Container
 - Grid
 - Stack
-# Material React Table (v3)
+# Material React Table (v3.0.1)
 ## Example
 - [[Material React Table Basic Example]]
 - [[Minimal Material React Table Example]]
@@ -126,3 +127,6 @@
 - [[Lodash - Debounce]]
 # Toastify
 - [[Toast Container]]
+
+# Redux
+- [[Redux]]
