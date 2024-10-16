@@ -4,34 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "45a6c5eaef39b087",
+        "id": "b6a45fcc47236513",
         "type": "tabs",
-        "dimension": 29.46708463949843,
         "children": [
           {
-            "id": "091455715d24a6d4",
+            "id": "20d8632964eaefc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intelli/Kiến thức/React/Redux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fa583cf0c14adf3d",
-        "type": "tabs",
-        "dimension": 70.53291536050156,
-        "children": [
-          {
-            "id": "92e3812e05c8d361",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
+              "type": "graph",
               "state": {}
             }
           }
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intelli/Kiến thức/React/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intelli/Kiến thức/React/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Intelli/Kiến thức/React/Redux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,12 +146,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Mở bộ chuyển đổi nhanh": false,
-      "graph:Mở xem biểu đồ": false,
-      "canvas:Tạo bảng mới": false,
-      "daily-notes:Mở ghi chú hôm nay": false,
-      "templates:Chèn mẫu": false,
-      "command-palette:Mở khay lệnh": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "notion-like-tables:Create loom": false,
@@ -183,8 +159,9 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "091455715d24a6d4",
+  "active": "20d8632964eaefc1",
   "lastOpenFiles": [
+    "Intelli/Kiến thức/React/Redux.md",
     "Intelli/Kiến thức/Mindmap Intelli.md",
     "Intelli/Kiến thức/Highchart/Highchart Core.md",
     "Self/Finance/12-OCT.md",
@@ -196,7 +173,6 @@
     "Intelli/Kiến thức/Material React Table/Advance Material React Table Example.md",
     "Intelli/Kiến thức/Javascript/Array function.md",
     "Intelli/Kiến thức/Highchart/Area Chart basic.md",
-    "Intelli/Kiến thức/React/Redux.md",
     "Intelli/Kiến thức/React/Hooks/UseReducer.md",
     "Intelli/Kiến thức/React/Hooks/UseState.md",
     "Intelli/Kiến thức/React/So sánh memo, useMemo.md",
