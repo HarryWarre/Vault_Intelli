@@ -1,4 +1,4 @@
-Tags: #react #memo #usememo
+Tags: #react #memo #usememo #compare
 
 So sánh usememo và react memo
 1. [[Usememo]]

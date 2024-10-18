@@ -1,4 +1,4 @@
-Tags: #chart #colchart
+Tags: #chart #colchart #highchart
 
 Reference: [Highchart - Column Chart](https://www.highcharts.com/demo/highcharts/column-basic)
 

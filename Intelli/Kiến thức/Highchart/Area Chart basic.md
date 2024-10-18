@@ -1,4 +1,4 @@
-Tags: #chart #areachart
+Tags: #chart #areachart #highchart 
 Reference: [Highchart - Basic Area](https://www.highcharts.com/demo/highcharts/area-basic)
 # Introduce
 

@@ -6,7 +6,6 @@
       {
         "id": "45a6c5eaef39b087",
         "type": "tabs",
-        "dimension": 29.46708463949843,
         "children": [
           {
             "id": "091455715d24a6d4",
@@ -14,25 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intelli/Kiến thức/React/Redux.md",
+                "file": "Intelli/Kiến thức/Arcgis EXB/Tạo MapView.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fa583cf0c14adf3d",
-        "type": "tabs",
-        "dimension": 70.53291536050156,
-        "children": [
-          {
-            "id": "92e3812e05c8d361",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
             }
           }
         ]
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intelli/Kiến thức/React/Redux.md",
+                "file": "Intelli/Kiến thức/Arcgis EXB/Tạo MapView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intelli/Kiến thức/React/Redux.md",
+                "file": "Intelli/Kiến thức/Arcgis EXB/Tạo MapView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intelli/Kiến thức/React/Redux.md"
+                "file": "Intelli/Kiến thức/Arcgis EXB/Tạo MapView.md"
               }
             }
           },
@@ -185,33 +169,34 @@
   },
   "active": "091455715d24a6d4",
   "lastOpenFiles": [
+    "Intelli/Kiến thức/Arcgis EXB/JimuMapView.md",
+    "Intelli/Kiến thức/Arcgis EXB/Arcgis EXB - Add Layers.md",
+    "Intelli/Kiến thức/Arcgis EXB/Arcgis EXB - Datasource.md",
+    "Intelli/Kiến thức/Arcgis EXB/Tạo MapView.md",
+    "Intelli/Kiến thức/Arcgis EXB/Widget.md",
     "Intelli/Kiến thức/Mindmap Intelli.md",
+    "Intelli/Kiến thức/Arcgis EXB",
+    "Intelli/Kiến thức/Material React Table/Material React Table Basic Example.md",
+    "Intelli/Kiến thức/Material React Table/Minimal Material React Table Example.md",
+    "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
+    "Intelli/Kiến thức/React/So sánh memo, useMemo.md",
+    "Intelli/Kiến thức/React/So sánh Redux và useContext.md",
+    "Intelli/Kiến thức/React/Hooks/UseContext.md",
+    "Intelli/Kiến thức/React/Hooks/UseReducer.md",
+    "Intelli/Kiến thức/React/Hooks/UseRef.md",
+    "Intelli/Kiến thức/React/Hooks/UseState.md",
+    "Intelli/Kiến thức/Toastify/Toast Container.md",
+    "Intelli/Kiến thức/React/Hooks/Usememo.md",
+    "Intelli/Kiến thức/Material UI/Sticky sidebar.md",
+    "Intelli/Kiến thức/Highchart/Area Chart basic.md",
+    "Intelli/Kiến thức/Javascript/Shallow Copy và Deep Copy.md",
+    "Intelli/Kiến thức/React/Redux.md",
+    "Intelli/Kiến thức/React/Apis/memo.md",
     "Intelli/Kiến thức/Highchart/Highchart Core.md",
     "Self/Finance/12-OCT.md",
-    "Intelli/Kiến thức/Toastify/Toast Container.md",
     "Intelli/Kiến thức/Lodash/Lodash - Debounce.md",
-    "Intelli/Kiến thức/Material React Table/Minimal Material React Table Example.md",
     "Intelli/Kiến thức/Material React Table/Material React Table Custom Headless.md",
-    "Intelli/Kiến thức/Material React Table/Material React Table Basic Example.md",
-    "Intelli/Kiến thức/Material React Table/Advance Material React Table Example.md",
-    "Intelli/Kiến thức/Javascript/Array function.md",
-    "Intelli/Kiến thức/Highchart/Area Chart basic.md",
-    "Intelli/Kiến thức/React/Redux.md",
-    "Intelli/Kiến thức/React/Hooks/UseReducer.md",
-    "Intelli/Kiến thức/React/Hooks/UseState.md",
-    "Intelli/Kiến thức/React/So sánh memo, useMemo.md",
-    "Intelli/Kiến thức/React/Hooks/UseRef.md",
-    "Intelli/Kiến thức/React/Hooks/UseEffect.md",
-    "Intelli/Kiến thức/React/Hooks/Usememo.md",
-    "Intelli/Kiến thức/React/Hooks/UseCallback.md",
-    "Intelli/Kiến thức/Javascript/Array Function trong ES6.md",
-    "Intelli/Kiến thức/Javascript/Shallow Copy và Deep Copy.md",
     "Chưa đặt tên.canvas",
-    "Intelli/Kiến thức/Highchart/Line Chart basic.md",
-    "README.md",
-    "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
-    "Demo Kanban.md",
-    "JavaScript Array length.md",
     "Intelli/Kiến thức/Javascript",
     "Intelli/StoreImg/Pasted image 20241015111331.png",
     "Intelli/StoreImg/Pasted image 20241014165213.png",
@@ -233,7 +218,6 @@
     "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012141351.png",
     "Self/Chứng khoán/Cổ phiếu/Việt Nam/Giá trị/Định giá.loom",
     "Self/Finance/Untitled.loom",
-    "Self/Chứng khoán/Cổ phiếu/Việt Nam/Trade",
     "Intelli/Task/Chưa đặt tên.canvas",
     "Intelli.canvas",
     "Sidebar Arcgis EXB.canvas",
