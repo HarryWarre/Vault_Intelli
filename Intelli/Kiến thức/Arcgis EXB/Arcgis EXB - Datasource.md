@@ -17,7 +17,7 @@ Tags: #arcgis_exb #datasource #setting
 
 ```js
 const onDataSourceSelected = (useDataSources: UseDataSource[]) => {
-	props.onSettingChange({
+	props.onSettingChange({ // Chuc nang tham so , .. 
 		id: props.id,
 		useDataSources: useDataSources,
 	});

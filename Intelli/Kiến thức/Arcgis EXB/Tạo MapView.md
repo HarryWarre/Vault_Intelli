@@ -1,4 +1,4 @@
-anhtruoanhTags: #arcgis_exb #widget #map
+Tags: #arcgis_exb #widget #map
 Các trường đầu vào để tạo Map (WebMapDataSource)
 
 ### Jimumapview
