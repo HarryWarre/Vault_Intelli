@@ -21,4 +21,14 @@
 1. Widget biểu đồ cột hiển thị dữ liệu theo thời gian (theo tháng).
 2. Khả năng phân loại dữ liệu theo bể ngầm và bể nổi.
 3. Cấu hình linh hoạt, đặc biệt là nhóm dữ liệu và hiển thị theo ngày/tháng/năm.
-4. Dữ liệu cần được nhóm và hiển thị dựa trên trường `esriFieldTypeDate`.
+4. Dữ liệu cần được nhóm và hiển thị dựa trên trường `esriFieldTypeDate`
+
+# Steps
+1. Tạo một widget chart của arcgis exb kế thừa toàn bộ các chức năng
+2. Custom
+	- Trong DS phải có trường ngày tháng (`esriFieldTypeDate)
+	- Loại: `barserries`
+	- Thêm cấu trúc Setting, kiểm tra các điều kiện trên để tiến hành Parse Dates và Minium Period
+	- Custom Chart UI
+
+## [[Phân tích cấu tạo của Chart Widget]]
