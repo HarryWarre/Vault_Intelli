@@ -85,3 +85,21 @@ Cập nhật toàn bộ gói
 npm update
 ```
 
+Kiểm tra các gói có phiên bản nào mới không
+```cmd
+ncu
+```
+
+Cập nhật các gói lên phiên bản mới
+
+```cmd
+ncu -u
+```
+
+Lệnh này sẽ cập nhật các phiên bản trong `package.json`, sau đó bạn có thể chạy: `bash npm install` để cài đặt các phiên bản mới nhất.
+
+Cập nhật phiên bản mới nhất của npm
+
+```cmd
+npm install -g npm
+```
