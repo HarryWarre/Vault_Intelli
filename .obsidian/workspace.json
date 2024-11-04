@@ -106,19 +106,6 @@
             }
           },
           {
-            "id": "fc17d1763c22bfef",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Yarn.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Yarn)"
-            }
-          },
-          {
             "id": "2b265e6e4a657aa2",
             "type": "leaf",
             "state": {
@@ -133,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -299,9 +286,9 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "fc17d1763c22bfef",
+  "active": "fb1630cf4968d1e0",
   "lastOpenFiles": [
-    "Yarn.md",
+    "Intelli/Kiến thức/Yarn.md",
     "Intelli/Kiến thức/Arcgis EXB/Feature Layer datasource.md",
     "Intelli/Kiến thức/Arcgis EXB/chart/ByGroupDataProps.md",
     "Intelli/Kiến thức/Arcgis EXB/chart/StatisticsDataSettingProps.md",
