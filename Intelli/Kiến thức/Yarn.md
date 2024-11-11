@@ -103,3 +103,19 @@ Cập nhật phiên bản mới nhất của npm
 ```cmd
 npm install -g npm
 ```
+
+Sự khác nhau ?
+
+npx
+- Là một công cụ trình chạy gói npm. 
+- Giúp chạy gói npm mà không cần phải cài đặt chúng trước đó
+- Thực thi gói npm ngay lập tức, tiết kiệm thời gian
+
+Với npx, có thể giúp chạy được gói npm trước mà không cần cài đặt
+vd:
+```cmd
+npx create-react-app my-app
+```
+[[Sự khác nhau giữa npm và npx và yarn?]]
+
+g - trong npm install -g <package>

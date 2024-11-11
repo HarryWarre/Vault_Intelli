@@ -1,5 +1,5 @@
 
-Constant:
+Constant: link server
 https://cloud.intelli.com.vn/server/rest/services/Devonly/QUANLYTAISAN_GISCHOLON_V1/FeatureServer/1
 
 
@@ -71,3 +71,5 @@ Lấy FeatureLayer từ một FeatureLayerDataSource trong ArcGIS EXB. `FeatureL
 
 -  **getDataSource(dataSourceId)**: Phương thức `getDataSource` tìm `DataSource` theo ID được cung cấp (`dataSourceId`).
 
+Git example:
+https://github.com/HarryWarre/ArcGIS-Training-ITL-Client/blob/9222a1b3eec1f006fd4d7d505d99c8f0363ec742/your-extensions/widgets/view-data-map/src/runtime/function.ts#L73-L96
