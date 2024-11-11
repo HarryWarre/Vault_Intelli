@@ -83,4 +83,3 @@ if (!extentWatch) {
 
 ### Reference 
 - [Git - Create Map](https://github.com/HarryWarre/ArcGIS-Training-ITL-Client/blob/main/your-extensions/widgets/create-map/src/runtime/widget.tsx)
-- 

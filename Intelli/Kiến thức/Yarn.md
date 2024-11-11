@@ -116,6 +116,6 @@ vd:
 ```cmd
 npx create-react-app my-app
 ```
-[[Sự khác nhau giữa npm và npx và yarn?]]
+[[So sánh sự khác nhau giữa npm và npx và yarn?]]
 
 g - trong npm install -g <package>

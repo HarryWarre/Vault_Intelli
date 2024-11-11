@@ -86,4 +86,22 @@ https://github.com/HarryWarre/ArcGIS-Training-ITL-Client/blob/9222a1b3eec1f006fd
 
 
 
-Ưu và nhược điểm 2 loại
+# Ưu và nhược điểm 2 loại 
+### 1. **FeatureLayer sử dụng URL**
+
+- **Ưu điểm**:
+    - **Dễ dàng truy cập dữ liệu trực tuyến**: Có thể liên kết trực tiếp đến dịch vụ dữ liệu trên ArcGIS Server hoặc ArcGIS Online.
+    - **Tự động cập nhật dữ liệu**: Khi nguồn dữ liệu thay đổi, các thay đổi sẽ tự động phản ánh trên bản đồ mà không cần thao tác thêm.
+    - **Tương thích tốt với các dịch vụ web GIS**: Có thể dễ dàng sử dụng các URL từ các dịch vụ web phổ biến và được hỗ trợ bởi nhiều nền tảng ArcGIS.
+- **Nhược điểm**:
+    - **Phụ thuộc vào kết nối mạng**: Cần có kết nối ổn định để truy cập dữ liệu, nếu không, có thể gặp vấn đề về hiệu suất hoặc không tải được dữ liệu.
+    - **Ít tùy chỉnh dữ liệu trực tiếp trong ExB**: Các thao tác tùy chỉnh dữ liệu phải thực hiện qua dịch vụ chứ không thể chỉnh sửa dễ dàng trong Experience Builder.
+
+### 2. **FeatureLayerDatasource**
+
+- **Ưu điểm**:
+    - **Tích hợp tốt trong ArcGIS Experience Builder**: FeatureLayerDatasource cung cấp khả năng tích hợp và quản lý dữ liệu ngay trong ExB, giúp dễ dàng tạo các tương tác động với bản đồ.
+    - **Quản lý dữ liệu tốt hơn**: Có thể cấu hình chi tiết dữ liệu ngay trong ExB, dễ dàng cho việc thiết kế và kiểm soát nội dung hiển thị.
+- **Nhược điểm**:
+    - **Phụ thuộc vào cấu hình trong ExB**: Cần thực hiện các bước cấu hình chi tiết, có thể phức tạp và mất thời gian
+    - **Khả năng cập nhật dữ liệu**: Nếu dữ liệu nguồn thay đổi, có thể cần phải làm mới hoặc tái cấu hình datasource để phản ánh dữ liệu mới.

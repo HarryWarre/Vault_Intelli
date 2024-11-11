@@ -13,6 +13,3 @@ Trong jimumapview, có thể tạo, quản lý và điều khiển các phiên b
 	- Phương thức này của `MapViewManager` để tạo một JimuMapView mới dựa trên MapView/SceneView đã được định nghĩa trong widget
 4. Interaction between WIdgets and Map:
 	- JimuMapView cho phép các widget trong ứng dụng tương tác với bản đồ
-
-
-## 
