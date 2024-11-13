@@ -4,82 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b80a0374af319fd0",
+        "id": "90cf89686b5107a4",
         "type": "tabs",
-        "dimension": 47.27157360406091,
         "children": [
           {
-            "id": "28a3272365a1ad0d",
+            "id": "1fc5446412529d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intelli/Kiến thức/React/So sánh memo, useMemo.md",
+                "file": "Intelli/Kiến thức/Interview/Javascript Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "So sánh memo, useMemo"
-            }
-          },
-          {
-            "id": "75f17f37cef5887a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intelli/Kiến thức/React/So sánh memo, useMemo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "So sánh memo, useMemo"
-            }
-          },
-          {
-            "id": "bac1f6d2c8e3827b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intelli/Kiến thức/So sánh sự khác nhau giữa npm và npx và yarn?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "So sánh sự khác nhau giữa npm và npx và yarn?"
-            }
-          },
-          {
-            "id": "464ebbd690b2a4c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intelli/Kiến thức/Arcgis EXB/JimuMapView.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JimuMapView"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f90cb7b270e52be9",
-        "type": "tabs",
-        "dimension": 52.72842639593909,
-        "children": [
-          {
-            "id": "9eccb5cd537a1c04",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mind Map of So sánh memo, useMemo"
+              "title": "Javascript Interview"
             }
           }
         ]
@@ -248,34 +187,40 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "75f17f37cef5887a",
+  "active": "1fc5446412529d8b",
   "lastOpenFiles": [
+    "Intelli/Kiến thức/Arcgis EXB/Functions/Zoom action on MapView.md",
+    "Intelli/Kiến thức/Arcgis EXB/Functions/Hiển thị tài sản theo mode Flash (nhấp nháy).md",
+    "Intelli/Kiến thức/Interview/Javascript Interview.md",
+    "Intelli/Kiến thức/React/React JS cơ bản.md",
+    "Intelli/Kiến thức/Interview",
+    "Intelli/Kiến thức/React/Hooks/UseCallback.md",
+    "Intelli/Kiến thức/React/Sharing State to Child Components.md",
+    "Intelli/StoreImg/Pasted image 20241112115151.png",
+    "Intelli/StoreImg/Pasted image 20241112115141.png",
+    "Intelli/Kiến thức/React/Hooks/Chọn loại State.md",
+    "Intelli/Kiến thức/React/State",
+    "Intelli/Kiến thức/Mindmap Intelli.md",
+    "Intelli/Kiến thức/Arcgis EXB/Add Layer By URL.md",
+    "Intelli/Kiến thức/Arcgis EXB/Track pointer get Point- lat,lon.md",
+    "Intelli/Kiến thức/Arcgis EXB/Chưa đặt tên",
+    "Intelli/Kiến thức/Arcgis EXB/Get Records list in Area Geometry of another Datasource.md",
+    "Intelli/Kiến thức/Arcgis EXB/Functions/Get record from datasource by query (FeatureLayerDataSource).md",
+    "Intelli/Kiến thức/Arcgis EXB/Functions",
+    "Intelli/Kiến thức/React/So sánh memo, useMemo.md",
+    "[.md",
+    "Intelli/Kiến thức/Arcgis EXB/Tạo MapView.md",
+    "Intelli/Kiến thức/Arcgis EXB/Webmap.md",
+    "Intelli/Kiến thức/Arcgis EXB/So sánh sự khác nhau của query bằng FeatureLayer url và FeatureLayerDataSource.md",
     "Intelli/Kiến thức/Arcgis EXB/Snap/Snap trong Mapview.md",
     "Intelli/Kiến thức/React/Hooks/Usememo.md",
-    "Intelli/Kiến thức/React/So sánh memo, useMemo.md",
-    "Intelli/Kiến thức/Arcgis EXB/So sánh sự khác nhau của query bằng FeatureLayer url và FeatureLayerDataSource.md",
-    "Intelli/Kiến thức/Mindmap Intelli.md",
     "Intelli/Kiến thức/Yarn.md",
     "Intelli/Kiến thức/React/Redux.md",
     "Intelli/Kiến thức/So sánh sự khác nhau giữa npm và npx và yarn?.md",
     "Intelli/Kiến thức/Arcgis EXB/JimuMapView.md",
     "Intelli/Kiến thức/Arcgis EXB/Feature Layer.md",
     "Intelli/Kiến thức/Arcgis EXB/Arcgis EXB - Datasource.md",
-    "Intelli/Kiến thức/Arcgis EXB/Tạo MapView.md",
     "Arcgis.md",
-    "[.md",
-    "[[.md",
-    "Intelli/Kiến thức/React/Hooks/UseCallback.md",
-    "Intelli/Kiến thức/Javascript/Array function.md",
-    "Intelli/Kiến thức/Javascript/Array Function trong ES6.md",
-    "Intelli/Kiến thức/Arcgis EXB/Popup - Arcgis.md",
-    "Intelli/Kiến thức/Arcgis EXB/Layer.definitionExpression.md",
-    "Intelli/Kiến thức/Arcgis EXB/Arcgis EXB - Add Layers.md",
-    "Intelli/Kiến thức/Arcgis EXB/Webmap.md",
-    "Intelli/Kiến thức/Arcgis EXB/Widget.md",
-    "Intelli/Kiến thức/Arcgis EXB/chart/Phân tích cấu tạo của Chart Widget.md",
-    "Intelli/Kiến thức/lerna.md",
-    "Intelli/Kiến thức/Arcgis EXB/chart/ByGroupDataProps.md",
     "Intelli/Kiến thức/Arcgis EXB/chart",
     "Intelli/Task analyze",
     "Intelli/Kiến thức/Arcgis EXB/jimumapview",
@@ -289,16 +234,10 @@
     "Intelli/StoreImg/Pasted image 20241014141616.png",
     "Intelli/StoreImg/Pasted image 20241015114222.png",
     "Intelli/StoreImg/Pasted image 20241015113932.png",
-    "Intelli/Kiến thức/Highchart",
-    "Intelli/Kiến thức/Material React Table",
-    "Intelli/Kiến thức/Lodash",
-    "Intelli/Kiến thức/Toastify",
     "Intelli/Mindmap.canvas",
     "University/Đồ án phần mềm/Đồ án phần mềm.canvas",
     "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012135443.png",
     "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012144937.png",
-    "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012143144.png",
-    "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012142805.png",
     "Intelli/Task/Chưa đặt tên.canvas",
     "Intelli.canvas",
     "Sidebar Arcgis EXB.canvas",
