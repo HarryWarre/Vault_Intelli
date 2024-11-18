@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intelli/Kiến thức/Interview/Javascript Interview.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript Interview"
+              "title": "README"
             }
           }
         ]
@@ -189,9 +189,23 @@
   },
   "active": "1fc5446412529d8b",
   "lastOpenFiles": [
+    "Intelli/NOC-NRW/Functions/GetJimuMapView.md",
+    "Intelli/NOC-NRW/Functions/Zoom to Feature.md",
+    "Intelli/Kiến thức/Arcgis EXB/jimumapview/hitTest.md",
+    "Intelli/Kiến thức/Arcgis EXB/JimuMapView.md",
     "Intelli/Kiến thức/Arcgis EXB/Functions/Zoom action on MapView.md",
-    "Intelli/Kiến thức/Arcgis EXB/Functions/Hiển thị tài sản theo mode Flash (nhấp nháy).md",
+    "Intelli/NOC-NRW/Functions/Map - Get Popup Content.md",
+    "Intelli/NOC-NRW/Functions/Map -MergeGeoAllDMA.md",
+    "Intelli/NOC-NRW/Functions/Map - Lấy giá trị thoát nước Công ty.md",
+    "Intelli/NOC-NRW/Functions/Map -Lấy Profile ID company - thông qua kỳ và năm.md",
     "Intelli/Kiến thức/Interview/Javascript Interview.md",
+    "Intelli/NOC-NRW/Widgets",
+    "Intelli/NOC-NRW/Notes",
+    "Intelli/NOC-NRW/Task",
+    "Intelli/NOC-NRW/Nghiệp vụ",
+    "Intelli/NOC-NRW/Functions",
+    "Intelli/NOC-NRW",
+    "Intelli/Kiến thức/Arcgis EXB/Functions/Hiển thị tài sản theo mode Flash (nhấp nháy).md",
     "Intelli/Kiến thức/React/React JS cơ bản.md",
     "Intelli/Kiến thức/Interview",
     "Intelli/Kiến thức/React/Hooks/UseCallback.md",
@@ -213,22 +227,8 @@
     "Intelli/Kiến thức/Arcgis EXB/Webmap.md",
     "Intelli/Kiến thức/Arcgis EXB/So sánh sự khác nhau của query bằng FeatureLayer url và FeatureLayerDataSource.md",
     "Intelli/Kiến thức/Arcgis EXB/Snap/Snap trong Mapview.md",
-    "Intelli/Kiến thức/React/Hooks/Usememo.md",
-    "Intelli/Kiến thức/Yarn.md",
-    "Intelli/Kiến thức/React/Redux.md",
-    "Intelli/Kiến thức/So sánh sự khác nhau giữa npm và npx và yarn?.md",
-    "Intelli/Kiến thức/Arcgis EXB/JimuMapView.md",
-    "Intelli/Kiến thức/Arcgis EXB/Feature Layer.md",
-    "Intelli/Kiến thức/Arcgis EXB/Arcgis EXB - Datasource.md",
-    "Arcgis.md",
-    "Intelli/Kiến thức/Arcgis EXB/chart",
-    "Intelli/Task analyze",
-    "Intelli/Kiến thức/Arcgis EXB/jimumapview",
-    "Intelli/Kiến thức/Arcgis EXB/Snap",
     "Pasted image 20241018105111.png",
-    "Intelli/Kiến thức/Arcgis EXB",
     "Chưa đặt tên.canvas",
-    "Intelli/Kiến thức/Javascript",
     "Intelli/StoreImg/Pasted image 20241015111331.png",
     "Intelli/StoreImg/Pasted image 20241014165213.png",
     "Intelli/StoreImg/Pasted image 20241014141616.png",
