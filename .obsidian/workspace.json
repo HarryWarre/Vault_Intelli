@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90cf89686b5107a4",
+        "id": "81460fe28d711fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "1fc5446412529d8b",
+            "id": "404ed828f20a50ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Intelli/Task analyze/New Custom Barchart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New Custom Barchart"
             }
           }
         ]
@@ -187,9 +187,16 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "1fc5446412529d8b",
+  "active": "404ed828f20a50ae",
   "lastOpenFiles": [
-    "Intelli/NOC-NRW/Functions/GetJimuMapView.md",
+    "Intelli/Kiến thức/Arcgis EXB/chart/SerialSetting.md",
+    "Intelli/Task analyze/New Custom Barchart.md",
+    "Intelli/Kiến thức/Arcgis EXB/Functions/Get record from datasource by query (FeatureLayerDataSource).md",
+    "Intelli/Kiến thức/Arcgis EXB/jimumapview/GetJimuMapView.md",
+    "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
+    "Intelli/Task analyze/Barchart Configuration.md",
+    "Intelli/Kiến thức/Highchart/Pie Chart.md",
+    "README.md",
     "Intelli/NOC-NRW/Functions/Zoom to Feature.md",
     "Intelli/Kiến thức/Arcgis EXB/jimumapview/hitTest.md",
     "Intelli/Kiến thức/Arcgis EXB/JimuMapView.md",
@@ -219,14 +226,7 @@
     "Intelli/Kiến thức/Arcgis EXB/Track pointer get Point- lat,lon.md",
     "Intelli/Kiến thức/Arcgis EXB/Chưa đặt tên",
     "Intelli/Kiến thức/Arcgis EXB/Get Records list in Area Geometry of another Datasource.md",
-    "Intelli/Kiến thức/Arcgis EXB/Functions/Get record from datasource by query (FeatureLayerDataSource).md",
     "Intelli/Kiến thức/Arcgis EXB/Functions",
-    "Intelli/Kiến thức/React/So sánh memo, useMemo.md",
-    "[.md",
-    "Intelli/Kiến thức/Arcgis EXB/Tạo MapView.md",
-    "Intelli/Kiến thức/Arcgis EXB/Webmap.md",
-    "Intelli/Kiến thức/Arcgis EXB/So sánh sự khác nhau của query bằng FeatureLayer url và FeatureLayerDataSource.md",
-    "Intelli/Kiến thức/Arcgis EXB/Snap/Snap trong Mapview.md",
     "Pasted image 20241018105111.png",
     "Chưa đặt tên.canvas",
     "Intelli/StoreImg/Pasted image 20241015111331.png",
