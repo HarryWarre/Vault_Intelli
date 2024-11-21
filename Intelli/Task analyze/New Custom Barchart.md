@@ -31,7 +31,7 @@
     - Hỗ trợ thay đổi các yếu tố của biểu đồ:
         - Thay đổi màu sắc và kiểu hiển thị.
         - Cấu hình khoảng cách giữa các cột.
-        - Thay đổi nhãn hoặc kiểu chữ. (màu sắc, size)
+        - Thay đổi nhãn hoặc kiểu chữ. (màu sắc, size).
 # Phase 2 : Tạo giao diện Bar chart
 - [x] Chuyển sang sử dụng range selector, code mẫu trong source NOC-NRW
 - [x] Tắt tính năng zoom
