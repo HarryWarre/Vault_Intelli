@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "81460fe28d711fe3",
+        "id": "98c7a737c1765ebf",
         "type": "tabs",
         "children": [
           {
-            "id": "404ed828f20a50ae",
+            "id": "dcb6acdbaa46417d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intelli/Task analyze/New Custom Barchart.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "New Custom Barchart"
+              "title": "Tab mới"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Layer.definitionExpression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến của Layer.definitionExpression"
+              "title": "Liên kết đến"
             }
           },
           {
@@ -138,11 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Layer.definitionExpression.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Đề cương của Layer.definitionExpression"
+              "title": "Đề cương"
             }
           },
           {
@@ -187,10 +180,10 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "404ed828f20a50ae",
+  "active": "280a2f3dbf3c1745",
   "lastOpenFiles": [
-    "Intelli/Kiến thức/Arcgis EXB/chart/SerialSetting.md",
     "Intelli/Task analyze/New Custom Barchart.md",
+    "Intelli/Kiến thức/Arcgis EXB/chart/SerialSetting.md",
     "Intelli/Kiến thức/Arcgis EXB/Functions/Get record from datasource by query (FeatureLayerDataSource).md",
     "Intelli/Kiến thức/Arcgis EXB/jimumapview/GetJimuMapView.md",
     "Intelli/Kiến thức/Highchart/Basic Column Chart.md",

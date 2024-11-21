@@ -63,10 +63,20 @@ isParseDate - Type of atribute in category
 	- Chart hiện tại chỉ hoạt động đối với loại date category là dạng ngày ()
 
 - Plan tạo list select fields trong layer datasource
-	- [ ] 1. Tạo một DatasourceComponent để lấy được nguồn dữ liệu
-	- [ ] 2. Query để lấy danh sách các fields hiện có
-	- [ ] 3.  Lấy type của fields hiện tại.
+	- [x] 1. Tạo một DatasourceComponent để lấy được nguồn dữ liệu
+	- [x] 2. Query để lấy danh sách các fields hiện có
+	- [x] 3.  Lấy type của fields hiện tại.
 - mẫu lấy alias: tab-table view
-- 
 
+- [ ] Kết nối select và props với nhau
+- [ ] Tạo IsparseDate
+- [ ] Tạo chart khi không phải là date
+
+Chọn màu sắc cho từng serries
+- [ ] Query danh sách serries tồn tại khi đã chọn Split By và Category
+- [ ] Tạo một List gồm tên serries - Color Picker
+- [ ] Gửi vào props setting
+
+- [ ] Tạo object trong runtime
+- [ ] Thêm màu sắc nếu có tồn tại name serri  = name trong object
 
