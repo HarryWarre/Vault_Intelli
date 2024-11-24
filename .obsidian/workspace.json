@@ -4,17 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "98c7a737c1765ebf",
+        "id": "eaf0c6f29ae6aa72",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb6acdbaa46417d",
+            "id": "47a55e93180c71d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intelli/Task analyze/New Custom Barchart.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "New Custom Barchart"
+            }
+          },
+          {
+            "id": "665dc79257895be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Get Domain Name.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Get Domain Name"
+            }
+          },
+          {
+            "id": "75d93b635c18a791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intelli/Kiến thức/Arcgis EXB/jimumapview/hitTest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hitTest"
             }
           }
         ]
@@ -73,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b2f3c50dbf88a24a",
@@ -89,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Intelli/Task analyze/New Custom Barchart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến"
+              "title": "Liên kết đến của New Custom Barchart"
             }
           },
           {
@@ -133,9 +167,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Intelli/Task analyze/New Custom Barchart.md"
+              },
               "icon": "lucide-list",
-              "title": "Đề cương"
+              "title": "Đề cương của New Custom Barchart"
             }
           },
           {
@@ -163,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,18 +216,23 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "280a2f3dbf3c1745",
+  "active": "47a55e93180c71d9",
   "lastOpenFiles": [
+    "Intelli/Kiến thức/Arcgis EXB/jimumapview/hitTest.md",
+    "Get Domain Name.md",
     "Intelli/Task analyze/New Custom Barchart.md",
+    "Intelli/Kiến thức/Lodash/Lodash - Debounce.md",
+    "Intelli/Kiến thức/Mindmap Intelli.md",
+    "eval \"$(ssh-agent -s)\".pub",
+    "eval \"$(ssh-agent -s)\"",
+    "Intelli/Task analyze/Barchart Configuration.md",
     "Intelli/Kiến thức/Arcgis EXB/chart/SerialSetting.md",
     "Intelli/Kiến thức/Arcgis EXB/Functions/Get record from datasource by query (FeatureLayerDataSource).md",
     "Intelli/Kiến thức/Arcgis EXB/jimumapview/GetJimuMapView.md",
     "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
-    "Intelli/Task analyze/Barchart Configuration.md",
     "Intelli/Kiến thức/Highchart/Pie Chart.md",
     "README.md",
     "Intelli/NOC-NRW/Functions/Zoom to Feature.md",
-    "Intelli/Kiến thức/Arcgis EXB/jimumapview/hitTest.md",
     "Intelli/Kiến thức/Arcgis EXB/JimuMapView.md",
     "Intelli/Kiến thức/Arcgis EXB/Functions/Zoom action on MapView.md",
     "Intelli/NOC-NRW/Functions/Map - Get Popup Content.md",
@@ -214,12 +255,7 @@
     "Intelli/StoreImg/Pasted image 20241112115141.png",
     "Intelli/Kiến thức/React/Hooks/Chọn loại State.md",
     "Intelli/Kiến thức/React/State",
-    "Intelli/Kiến thức/Mindmap Intelli.md",
     "Intelli/Kiến thức/Arcgis EXB/Add Layer By URL.md",
-    "Intelli/Kiến thức/Arcgis EXB/Track pointer get Point- lat,lon.md",
-    "Intelli/Kiến thức/Arcgis EXB/Chưa đặt tên",
-    "Intelli/Kiến thức/Arcgis EXB/Get Records list in Area Geometry of another Datasource.md",
-    "Intelli/Kiến thức/Arcgis EXB/Functions",
     "Pasted image 20241018105111.png",
     "Chưa đặt tên.canvas",
     "Intelli/StoreImg/Pasted image 20241015111331.png",

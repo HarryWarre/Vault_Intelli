@@ -68,9 +68,35 @@ isParseDate - Type of atribute in category
 	- [x] 3.  Lấy type của fields hiện tại.
 - mẫu lấy alias: tab-table view
 
-- [ ] Kết nối select và props với nhau
-- [ ] Tạo IsparseDate
-- [ ] Tạo chart khi không phải là date
+- [x] Kết nối select và props với nhau
+- [x] Tạo IsparseDate
+- [x] Tạo chart khi không phải là date
+
+
+Date
+139, 11, 47, 107
+Month
+139, 47, 107, 11
+
+# **Phase 5: Fix bug**
+
+- [x] Tối ưu `useEffect` cho các phần source runtime hiện tại.
+- [x] Sửa và xóa import ngoài widget.
+
+# **Phase 6: Sửa tính năng liên quan đến datasource**
+
+- [x] Sửa logic query để lấy toàn bộ record (hiện tại chỉ lấy được 2000 record):
+    - Query setting.
+    - Query runtime (Data of chart, series values).
+- [x] Lấy dữ liệu từ `DataSource`.
+
+# **Phase 7: Thêm tính năng giao diện**
+
+- [x] Hiển thị mô tả của giá trị nếu trường có **Domain**. (default 3)
+- [x] Cho phép bật/tắt hiển thị số lượng trên chart. (Đã bật)
+- [ ] Cho phép thay đổi màu sắc chart, cỡ chữ, kiểu chữ (**Appearance**).
+- [ ] Đổi màu sắc từng series.
+- [ ] Hiển thị màu sắc cho title, sub title
 
 Chọn màu sắc cho từng serries
 - [ ] Query danh sách serries tồn tại khi đã chọn Split By và Category
@@ -80,3 +106,21 @@ Chọn màu sắc cho từng serries
 - [ ] Tạo object trong runtime
 - [ ] Thêm màu sắc nếu có tồn tại name serri  = name trong object
 
+# **Phase 8: Nghiên cứu về action trigger, filter on chart**
+
+- Nghiên cứu về **action trigger** và áp dụng lên chart.
+- Nghiên cứu về **filter** và áp dụng lên chart.
+
+*Lấy dữ liệu datasource*
+Hiển thị màu sắc
+Đổi màu serries
+Hiển thị trường domain
+
+querycount
+
+"30042200323"
+"30042200323"
+
+Không có date trong splitby
+
+Filter document
