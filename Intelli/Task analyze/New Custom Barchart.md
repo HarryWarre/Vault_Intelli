@@ -6,7 +6,7 @@
     - **Mục đích**: Hiển thị biểu đồ cột trực quan, phân tích dữ liệu theo thời gian (ngày, tháng, năm).
     - **Đặc điểm cần có:**
         - Các cột biểu diễn số lượng sự cố.
-        - Trục hoành (X-axis) biểu diễn thời gian (mặc định theo tháng, có thể điều chỉnh).
+        - Trục hoành (X-axis) biểu diễn thời gian (mặc địnhg theo tháng, có thể điều chỉnh).
         - Trục tung (Y-axis) biểu diễn số lượng sự cố.
         - Phân loại sự cố theo loại bể ngầm và bể nổi (có thể dùng màu sắc khác nhau để phân biệt).
 2. **Tính năng cấu hình (Configuration Panel)**
@@ -54,8 +54,8 @@ Danh sách setting lần 1
 - [x] Chart Subtitle - Input - Text
 
 isParseDate - Type of atribute in category
-- [ ] isParseDate
-- [ ] Type category ? 
+- [x] isParseDate
+- [x] Type category ? 
 
 - Bị lỗi:
 	- Hiện tại sẽ có lỗi nhỏ nếu như chọn đổi Split by, chart sẽ reset không toàn bộ 
@@ -95,8 +95,14 @@ Month
 - [x] Hiển thị mô tả của giá trị nếu trường có **Domain**. (default 3)
 - [x] Cho phép bật/tắt hiển thị số lượng trên chart. (Đã bật)
 - [ ] Cho phép thay đổi màu sắc chart, cỡ chữ, kiểu chữ (**Appearance**).
+	- [x] Tạo Panel cho mỗi object của Title và SubTitle
+	- [x] Setting nội dung Title, SubTitle
+	- [ ] Setting Cỡ chữ Tittle, SubTitle
+	- [ ] Setting Màu Title, SubTitle (Sử dụng Color Picker)
+	- [ ] Setting Font Title, SubTitle ? 
+	- [ ] Setting Vị trí Titlte SubTittle ?
 - [ ] Đổi màu sắc từng series.
-- [ ] Hiển thị màu sắc cho title, sub title
+	- [ ] Color Picker
 
 Chọn màu sắc cho từng serries
 - [ ] Query danh sách serries tồn tại khi đã chọn Split By và Category
@@ -124,3 +130,4 @@ querycount
 Không có date trong splitby
 
 Filter document
+Lỗi SplitBY
