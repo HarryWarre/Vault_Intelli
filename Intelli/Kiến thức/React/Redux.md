@@ -139,3 +139,23 @@ export default connect(mapStateToProps, mapDispatchToProps)(TodoApp);
 
 ```
 
+Cách sử dụng redux trong arcgis :
+```js
+dispatch(  
+    appActions.widgetStatePropChange(  
+        "chartParseDate",  
+        "colChartParseDate",  
+        previousFilter !== undefined && previousFilter?.timestamp === messageColumnChart?.timestamp  
+            ? undefined  
+            : messageColumnChart  
+    )  
+);
+```
+Nhận thông tin redux
+```js
+const colChartParseDateMessage = useSelector(  
+    () =>  
+        getAppStore().getState().widgetsState?.["chartParseDate"]?.["colChartParseDate"]  
+);
+```
+Link github:

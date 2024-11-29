@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47a55e93180c71d9",
+            "id": "665dc79257895be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intelli/Kiến thức/React/Redux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redux"
+            }
+          },
+          {
+            "id": "75d93b635c18a791",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,36 +34,9 @@
               "icon": "lucide-file",
               "title": "New Custom Barchart"
             }
-          },
-          {
-            "id": "665dc79257895be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Get Domain Name.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Get Domain Name"
-            }
-          },
-          {
-            "id": "75d93b635c18a791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intelli/Kiến thức/Arcgis EXB/jimumapview/hitTest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hitTest"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b2f3c50dbf88a24a",
@@ -216,11 +202,17 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "47a55e93180c71d9",
+  "active": "75d93b635c18a791",
   "lastOpenFiles": [
-    "Intelli/Kiến thức/Arcgis EXB/jimumapview/hitTest.md",
-    "Get Domain Name.md",
+    "Intelli/Kiến thức/Highchart/Pie Chart.md",
+    "Intelli/Kiến thức/React/Redux.md",
     "Intelli/Task analyze/New Custom Barchart.md",
+    "Intelli/Kiến thức/Arcgis EXB/jimumapview/hitTest.md",
+    "Intelli/Kiến thức/Highchart/Area Chart basic.md",
+    "Intelli/Kiến thức/Highchart/Line Chart basic.md",
+    "Intelli/Kiến thức/Highchart/Highchart Core.md",
+    "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
+    "Get Domain Name.md",
     "Intelli/Kiến thức/Lodash/Lodash - Debounce.md",
     "Intelli/Kiến thức/Mindmap Intelli.md",
     "eval \"$(ssh-agent -s)\".pub",
@@ -229,8 +221,6 @@
     "Intelli/Kiến thức/Arcgis EXB/chart/SerialSetting.md",
     "Intelli/Kiến thức/Arcgis EXB/Functions/Get record from datasource by query (FeatureLayerDataSource).md",
     "Intelli/Kiến thức/Arcgis EXB/jimumapview/GetJimuMapView.md",
-    "Intelli/Kiến thức/Highchart/Basic Column Chart.md",
-    "Intelli/Kiến thức/Highchart/Pie Chart.md",
     "README.md",
     "Intelli/NOC-NRW/Functions/Zoom to Feature.md",
     "Intelli/Kiến thức/Arcgis EXB/JimuMapView.md",
@@ -249,13 +239,9 @@
     "Intelli/Kiến thức/Arcgis EXB/Functions/Hiển thị tài sản theo mode Flash (nhấp nháy).md",
     "Intelli/Kiến thức/React/React JS cơ bản.md",
     "Intelli/Kiến thức/Interview",
-    "Intelli/Kiến thức/React/Hooks/UseCallback.md",
-    "Intelli/Kiến thức/React/Sharing State to Child Components.md",
     "Intelli/StoreImg/Pasted image 20241112115151.png",
     "Intelli/StoreImg/Pasted image 20241112115141.png",
-    "Intelli/Kiến thức/React/Hooks/Chọn loại State.md",
     "Intelli/Kiến thức/React/State",
-    "Intelli/Kiến thức/Arcgis EXB/Add Layer By URL.md",
     "Pasted image 20241018105111.png",
     "Chưa đặt tên.canvas",
     "Intelli/StoreImg/Pasted image 20241015111331.png",

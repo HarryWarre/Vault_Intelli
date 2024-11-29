@@ -41,3 +41,8 @@ Plot options:
 	- Được đẩy ra khỏi biểu đồ (dùng với thuộc tính sliced). Được đánh dấu bằng hiệu ứng viền hoặc **highlight**.
 - distance: Khoảng cách của Point
 - opacity: độ mờ, 
+
+- Tạo donut pie chart
+	- plotOptions.pie.innerSize: '50%'
+- Hiển thị label với giá trị ràng buộc
+	- plotOptions.pie.dataLabels: 

@@ -94,40 +94,73 @@ Month
 
 - [x] Hiển thị mô tả của giá trị nếu trường có **Domain**. (default 3)
 - [x] Cho phép bật/tắt hiển thị số lượng trên chart. (Đã bật)
-- [ ] Cho phép thay đổi màu sắc chart, cỡ chữ, kiểu chữ (**Appearance**).
+- [x] Cho phép thay đổi màu sắc chart, cỡ chữ, kiểu chữ (**Appearance**).
 	- [x] Tạo Panel cho mỗi object của Title và SubTitle
 	- [x] Setting nội dung Title, SubTitle
-	- [ ] Setting Cỡ chữ Tittle, SubTitle
-	- [ ] Setting Màu Title, SubTitle (Sử dụng Color Picker)
-	- [ ] Setting Font Title, SubTitle ? 
-	- [ ] Setting Vị trí Titlte SubTittle ?
-- [ ] Đổi màu sắc từng series.
-	- [ ] Color Picker
-
-Chọn màu sắc cho từng serries
-- [ ] Query danh sách serries tồn tại khi đã chọn Split By và Category
-- [ ] Tạo một List gồm tên serries - Color Picker
-- [ ] Gửi vào props setting
-
-- [ ] Tạo object trong runtime
-- [ ] Thêm màu sắc nếu có tồn tại name serri  = name trong object
+	- [x] Setting Cỡ chữ Tittle, SubTitle
+	- [x] Setting Màu Title, SubTitle (Sử dụng Color Picker)
+	- [x] Setting Font Title, SubTitle ? 
+	- [x] Setting Vị trí Titlte SubTittle ?
+- [x] Đổi màu sắc từng series.
+	- [x] Color Picker
+	- Chọn màu sắc cho từng serries
+	- [x] Query danh sách serries tồn tại khi đã chọn Split By và Category
+	- [x] Tạo một List gồm tên serries - Color Picker
+	- [x] Gửi vào props setting
+	
+	- [x] Tạo object trong runtime
+	- [x] Thêm màu sắc nếu có tồn tại name serri  = name trong object
+Lỗi: 
+- [x] Chưa xử lý không có code domain
+- [x] Chưa request đủ serries
+	- [x] Nếu có domain thì không querries
+		- [x] Tạo hàm getDomain
+		- [x] Callback
+		- [x] Đưa điều kiện nếu có domain thì không cần querries
+	- [x] Nếu không có domain thì phải querries
+	- [x] Code trong runtime không cần phải đọc lại phần Code trong domain
 
 # **Phase 8: Nghiên cứu về action trigger, filter on chart**
 
 - Nghiên cứu về **action trigger** và áp dụng lên chart.
 - Nghiên cứu về **filter** và áp dụng lên chart.
-
-*Lấy dữ liệu datasource*
-Hiển thị màu sắc
-Đổi màu serries
-Hiển thị trường domain
-
-querycount
-
-"30042200323"
-"30042200323"
-
 Không có date trong splitby
 
 Filter document
-Lỗi SplitBY
+Lỗi SplitBY ?
+Lỗi font defalut X
+
+data action
+message action
+
+Link
+https://github.com/Esri/arcgis-experience-builder-sdk-resources/blob/master/widgets/message-subscriber/src/runtime/widget.tsx
+const state = getAppStore().getState();
+
+
+Note:
+- Action trên chart, để thực hiện thao tác tương tác với các chart khác
+- Setting màu cỡ chữ trên chart (đối với các giá trị, x-y axis)
+- Loại chart line, bar, pie, ...
+
+# Tạo pie chart:
+- [x] Bộ nhận diện type chart => pie chart
+- [x] Options file piechart
+- [x] Đưa data vào pie chart
+- [x] Setting Pie chart
+- [x] Đổi màu category
+- [x] Listen Filter
+- [x] Push redux query từ column chart
+- [x] Listen query từ column chart
+- [x] Change từ query
+- [x] Lỗi hiện giá trị mỗi khi filter
+- [ ] Chưa hiển thị màu serries
+- [x] Thu nhỏ cột range
+- [x] Nhỏ thanh scroll time
+- [x] Xóa cột trong scroll
+- [x] Bật cột y
+- [x] Lỗi date
+- [x] Cột y bên trái sang bên phải
+
+- [ ] Kích thước của cột
+- [ ] Khoảng cách giữa các cột
