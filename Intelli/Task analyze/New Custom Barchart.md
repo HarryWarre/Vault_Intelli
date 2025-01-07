@@ -1,4 +1,4 @@
-# Phase 1 : BA chức năng chi tiết 
+d # Phase 1 : BA chức năng chi tiết 
 
 #### **Phân tích nhu cầu giao diện**
 
@@ -162,5 +162,14 @@ Note:
 - [x] Lỗi date
 - [x] Cột y bên trái sang bên phải
 
-- [ ] Kích thước của cột
-- [ ] Khoảng cách giữa các cột
+- [x] Kích thước của cột
+- [x] Khoảng cách giữa các cột
+- [x] Đổi giá trị cột y-axis labels
+
+Tình trạng domain
+- [x] Legend piechart xuống dòng ? bé chart
+- [x] Khi hover sẽ tách ra
+- [x] Ẩn show value của pie chart
+- [x] Ẩn các setting không cần thiết của chart pie
+- [ ] Split by trong pie chart
+- [ ] 
