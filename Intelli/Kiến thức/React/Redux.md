@@ -158,4 +158,4 @@ const colChartParseDateMessage = useSelector(
         getAppStore().getState().widgetsState?.["chartParseDate"]?.["colChartParseDate"]  
 );
 ```
-Link github:
+
