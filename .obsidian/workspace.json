@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intelli/Kiến thức/React/So sánh Redux và useContext.md",
+                "file": "Finance/Research/Chiến lược Risk Parity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "So sánh Redux và useContext"
+              "title": "Chiến lược Risk Parity"
             }
           },
           {
@@ -54,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Trình duyệt tệp"
@@ -201,10 +202,18 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "fb1630cf4968d1e0",
+  "active": "665dc79257895be9",
   "lastOpenFiles": [
-    "Intelli/Kiến thức/React/Hooks/UseContext.md",
+    "Finance/Research/Mô hình Markowitz.md",
+    "Finance/Research/Chiến lược Risk Parity.md",
+    "Finance/Img",
+    "Finance/Img/Pasted image 20250130132616.png",
+    "Finance/Research/Tóm tắt Chiến lược quản lý danh mục đầu tư.md",
     "Intelli/Kiến thức/React/So sánh Redux và useContext.md",
+    "Finance/Research",
+    "Finance/Portfolio",
+    "Finance",
+    "Intelli/Kiến thức/React/Hooks/UseContext.md",
     "Intelli/Kiến thức/React/Redux.md",
     "Intelli/Kiến thức/React/Apis/memo.md",
     "Intelli/Kiến thức/Interview/Javascript Interview.md",
@@ -228,19 +237,12 @@
     "Intelli/Kiến thức/Arcgis EXB/jimumapview/GetJimuMapView.md",
     "README.md",
     "Intelli/NOC-NRW/Functions/Zoom to Feature.md",
-    "Intelli/Kiến thức/Arcgis EXB/JimuMapView.md",
-    "Intelli/Kiến thức/Arcgis EXB/Functions/Zoom action on MapView.md",
-    "Intelli/NOC-NRW/Functions/Map - Get Popup Content.md",
     "Intelli/NOC-NRW/Widgets",
     "Intelli/NOC-NRW/Notes",
     "Intelli/NOC-NRW/Task",
     "Intelli/NOC-NRW/Nghiệp vụ",
-    "Intelli/NOC-NRW/Functions",
-    "Intelli/NOC-NRW",
-    "Intelli/Kiến thức/Interview",
     "Intelli/StoreImg/Pasted image 20241112115151.png",
     "Intelli/StoreImg/Pasted image 20241112115141.png",
-    "Intelli/Kiến thức/React/State",
     "Pasted image 20241018105111.png",
     "Chưa đặt tên.canvas",
     "Intelli/StoreImg/Pasted image 20241015111331.png",
@@ -251,7 +253,6 @@
     "Intelli/Mindmap.canvas",
     "University/Đồ án phần mềm/Đồ án phần mềm.canvas",
     "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012135443.png",
-    "Self/Chứng khoán/Cổ phiếu/IMG/Pasted image 20241012144937.png",
     "Intelli/Task/Chưa đặt tên.canvas",
     "Intelli.canvas",
     "Sidebar Arcgis EXB.canvas",
